@@ -43,6 +43,10 @@ Os mapas abaixo servem apenas para consulta visual. Eles não são datasets dest
 
 O notebook usa caminhos relativos a partir do diretório notebooks. Se a execução for iniciada com outro diretório de trabalho, ajuste o diretório de trabalho do Jupyter para notebooks ou atualize os caminhos de dados.
 
+## Uso de inteligência artificial
+
+Durante a elaboração deste projeto, utilizei o ChatGPT como apoio para organizar o notebook, redigir e revisar partes do texto, elaborar e revisar código Python e documentar as fontes. Conferi as interpretações em relação aos arquivos locais. A ferramenta foi usada como apoio; a revisão final e a responsabilidade pelo conteúdo são minhas.
+
 ## Limitações e interpretação
 
 - As contagens e estatísticas descrevem as cópias locais analisadas e podem mudar quando as fontes forem atualizadas.
@@ -53,3 +57,13 @@ O notebook usa caminhos relativos a partir do diretório notebooks. Se a execuç
 - A coluna is_shahed requer documentação adicional antes de receber interpretação semântica.
 
 Para detalhes sobre estrutura, etapas e referências, consulte o notebook e dataset_info.md.
+
+## Autor
+
+Walace Alves
+
+Curso de Sistemas de Informação
+
+Universidade - UFRA (Universidade Federal Rural da Amazônia)
+
+2026
